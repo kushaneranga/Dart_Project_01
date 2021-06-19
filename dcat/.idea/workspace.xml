@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4337d568-ffbf-4d7e-a4ac-429ac3908e79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/dcat.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dcat.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" />
-    </list>
+    <list default="true" id="cae3220b-145e-4292-9716-35a6c0d0afe3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1uAm1Tlhe3Ydcsp1VwwRvi3CzuR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1uAuH9qzBvculYWzNKGJ8quL57S" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,11 +28,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4337d568-ffbf-4d7e-a4ac-429ac3908e79" name="Default Changelist" comment="" />
-      <created>1624116553304</created>
+      <changelist id="cae3220b-145e-4292-9716-35a6c0d0afe3" name="Default Changelist" comment="" />
+      <created>1624120624379</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1624116553304</updated>
+      <updated>1624120624379</updated>
     </task>
     <servers />
   </component>
