@@ -1,3 +1,5 @@
 void main(List<String> arguments) {
-  print('Hello world!');
+  var name = 10;
+  var m = 5*name;
+  print('num ${m}');
 }

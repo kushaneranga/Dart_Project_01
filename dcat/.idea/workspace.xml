@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae3220b-145e-4292-9716-35a6c0d0afe3" name="Default Changelist" comment="" />
+    <list default="true" id="cae3220b-145e-4292-9716-35a6c0d0afe3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dcat.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dcat.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1uAuH9qzBvculYWzNKGJ8quL57S" />
   <component name="ProjectViewState">
@@ -16,10 +23,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pictures/Personal-App" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="dcat.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration name="dcat.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/dcat.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
@@ -35,5 +44,9 @@
       <updated>1624120624379</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
